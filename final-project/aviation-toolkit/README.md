@@ -50,20 +50,17 @@ The Aviation Toolkit includes the following features:
 
 ## How to Run
 
-1. Clone this repository to your local machine:
+1. Download the draw file from this repository to your local machine:
 
-    git clone https://github.com/l-gomes-ar/cse111/tree/main/final-project/aviation-toolkit
+    https://github.com/l-gomes-ar/cse111/blob/main/final-project/aviation-toolkit/aviation_toolkit.py
 
-2. Navigate to the project directory:
 
-    cd aviation-toolkit
-
-3. Run the main application:
+2. Run the main application:
 
     python aviation_toolkit.py
 
 
-4. Use the graphical user interface to access the various tools and calculators.
+3. Use the graphical user interface to access the various tools and calculators.
 
 ## Dependencies
 
@@ -77,6 +74,5 @@ This project is open-source!
 
 - Lucas Araujo (https://github.com/l-gomes-ar) - lgaraujo021@gmail.com
 
-I welcome contributions from the community. Feel free to open issues or submit pull requests to enhance this aviation toolkit.
 
 Happy flying!
