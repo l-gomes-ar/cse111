@@ -52,7 +52,7 @@ The Aviation Toolkit includes the following features:
 
 1. Clone this repository to your local machine:
 
-    git clone https://github.com/l-gomes-ar/aviation-toolkit.git
+    git clone https://github.com/l-gomes-ar/cse111/tree/main/final-project/aviation-toolkit
 
 2. Navigate to the project directory:
 
